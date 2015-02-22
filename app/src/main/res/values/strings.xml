@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoPhoto</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="wiki_lang">en</string>
+    <string name="action_photo">Photo</string>
+    <string name="photo_preview">Photo preview</string>
+    <string name="get_wiki_data">Retrieving Wikipedia data...</string>
+    <string name="gps_error">It has not been possible to get current location...</string>
+    <string name="action_read_gallery">Import Gallery</string>
+    <string name="select_picture">Select picture</string>
+    <string name="pict_loc_error">Location data not found in picture</string>
+    <string name="click_to_visit">Click to visit...</string>
+    <string name="action_read_photo">Import Photo</string>
+    <string name="title_activity_gallery_list">Gallery List</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

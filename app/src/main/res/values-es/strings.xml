@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoFoto</string>
+    <string name="navigation_drawer_open">Abrir panel de navegación</string>
+    <string name="navigation_drawer_close">Cerrar panel de navegación</string>
+    <string name="title_activity_maps">Mapa</string>
+    <string name="wiki_lang">es</string>
+    <string name="action_photo">Foto</string>
+    <string name="photo_preview">Vista previa</string>
+    <string name="get_wiki_data">Obteniendo datos de la Wikipedia...</string>
+    <string name="gps_error">No se ha podido establecer la posición actual</string>
+    <string name="action_read_gallery">Importar galería</string>
+    <string name="select_picture">Selecciona imagen</string>
+    <string name="pict_loc_error">No se ha podido encontrar información de localización en la imagen</string>
+    <string name="click_to_visit">Pulsa para ver...</string>
+    <string name="action_read_photo">Importar foto</string>
+
+</resources>
